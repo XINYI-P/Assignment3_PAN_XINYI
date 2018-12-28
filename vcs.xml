@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/hideonbush19960507/Assignment3_PAN_XINYI" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/QingDerui/Assignment3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Pan\PhpstormProjects" />
